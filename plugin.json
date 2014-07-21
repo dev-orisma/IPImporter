@@ -1,0 +1,13 @@
+{
+ "name": "IPImporter",
+ "version": "0.1.0",
+ "description": "Import your excel file to config the IntranetGeoIP config data.php file",
+ "theme": false,
+ "authors": [
+     {
+         "name": "Piwik",
+         "email": "",
+         "homepage": ""
+     }
+ ]
+}

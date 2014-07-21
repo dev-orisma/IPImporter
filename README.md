@@ -1,4 +1,18 @@
-IPImporter
-==========
+# Piwik IPImporter Plugin
 
-Piwik plugin to import your excel file to config the IntranetGeoIP config data.php file
+## Description
+
+Add your plugin description here.
+
+## FAQ
+
+__My question?__
+My answer
+
+## Changelog
+
+Here goes the changelog text.
+
+## Support
+
+Please direct any feedback to ...
