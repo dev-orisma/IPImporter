@@ -1,13 +1,14 @@
 {
  "name": "IPImporter",
- "version": "0.1.0",
- "description": "Import your excel file to config the IntranetGeoIP config data.php file",
+ "version": "0.1.1",
+ "description": "Piwik plugin to import your excel file to config the IntranetGeoIP config data.php file",
+ "homepage": "https://github.com/dev-orisma/IPImporter",
  "theme": false,
  "authors": [
      {
          "name": "Piwik",
-         "email": "",
-         "homepage": ""
+         "email": "jedsadang@orisma.com",
+         "homepage": "https://github.com/dev-orisma/"
      }
  ]
 }
